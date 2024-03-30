@@ -3,5 +3,9 @@
         "angular-*": {
             "style": "css"
         }
-    }
+    },
+    "angular-schematics.angularDisableProjectPathCheck": true,
+    "angular-schematics.angularForceClassGuardsAndResolvers": true,
+    "angular-schematics.angularForceClassInterceptor": true,
+    "angular-schematics.angularForceNgModules": true
 }
